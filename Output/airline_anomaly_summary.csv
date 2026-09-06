@@ -1,0 +1,5 @@
+airline,total_records,anomalies,anomaly_rate_percent
+Air India,251,0,0.0
+IndiGo,270,0,0.0
+SpiceJet,248,1,0.4032258064516129
+Vistara,231,0,0.0

@@ -1,0 +1,7 @@
+Metric,Count
+Total Flights,1005
+Same-Day Flights,883
+Overnight Flights,122
+Duration Anomalies,1
+Missing Timestamp Records,0
+Missing Supplied Duration,0
