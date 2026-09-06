@@ -54,7 +54,7 @@ Flight duration was calculated using the departure and arrival timestamps.
 
 ```text
 Flight Duration = Arrival Time - Departure Time
-
+```
 The calculated flight duration was converted into minutes for analysis.
 
 Flights were also classified into two categories:
